@@ -37,7 +37,7 @@ const routes: Routes = [
     path: '',
     redirectTo: '/cases',
     pathMatch: 'full'
-  }
+  }78
 ];
 
 @NgModule({
